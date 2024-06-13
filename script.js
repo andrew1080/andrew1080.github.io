@@ -32,7 +32,7 @@ function reset(){
 function update(){
 
     const currentTime = Date.now();
-    const d = new Date("June 14, 2024 23:00:00");
+    const d = new Date("June 15, 2024 12:00:00");
     let day = d.getUTCDay();
     let hour = d.getUTCHours();
     let minute = d.getUTCMinutes();
